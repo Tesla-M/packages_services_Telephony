@@ -43,6 +43,7 @@
     <string name="incall_screen_settings">In-call screen settings</string>
     <string name="show_ssn_label">Event notification</string>
     <string name="show_ssn_summary">Show a notification for various network events related to call handling</string>
+    <string name="advanced_setting">Advanced Settings</string>
 
     <!-- Blacklist preferences -->
     <string name="blacklist_title">Blocked caller list</string>
@@ -83,4 +84,5 @@
     <string name="call_notif_callconnectingect">Call connecting through explicit call transfer</string>
     <!-- Toast text for incoming call connected through ECT -->
     <string name="call_notif_callconnectedect">Call connected through explicit call transfer</string>
+
 </resources>
