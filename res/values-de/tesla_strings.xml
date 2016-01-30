@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Proximity speaker -->
+    <string name="display_category_prox_auto_speaker_title">Freisprecheinstellungen</string>
+    <string name="prox_auto_speaker_title">Automatische Freisprecheinstellungen</string>
+    <string name="prox_auto_speaker_summary">Freisprechen aktivieren, wenn das Gerät von Ihrem Gesicht entfernt wird</string>
+    <string name="prox_auto_speaker_delay_title">Freisprechverzögerung</string>
+    <string name="prox_auto_speaker_delay_summary">Zeitverzögerung vor dem Lautsprecher ist aktiviert</string>
+    <string name="prox_auto_speaker_incall_only_title">Nur während eines Anrufes</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">Bei ausgehenden Anrufen Hörer wird nur aktiv, wenn die empfangende Partei antwortet</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">Hörer während eines Anrufs Abheben Anrufzustände sind aktiv (Standard)</string>
+
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Umdreh Aktion</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title">Phone umdrehen für\u2026</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary">Beim umdrehen des Phones wird <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Values for flip action array entries -->
+    <string name="entry_do_nothing">nichts</string>
+    <string name="entry_mute_ringer">Klingelton lautlos</string>
+    <string name="entry_dismiss_call">Anruf abweisen</string>
+    <string name="summary_do_nothing">nichts passieren</string>
+    <string name="summary_mute_ringer">der Klingelton lautlos</string>
+    <string name="summary_dismiss_call">der Anruf abgewiesen</string>
+
+</resources>
